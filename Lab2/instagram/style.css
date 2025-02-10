@@ -4,7 +4,9 @@
     box-sizing: border-box;
 }
 .main{
-    display: flex;  
+    display: flex; 
+    align-items: center;
+    justify-content: center;
 }
 .logo-tele{
     padding-top: 60px;  
@@ -14,7 +16,7 @@
     margin-left: 200px;
 }
 .insta-logo{
-    margin-left: 20px;  /*сам бокс логина*/
+    margin-left: 100px;  /*сам бокс логина*/
     margin-top: 65px;
 }
 body{
