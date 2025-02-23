@@ -16,4 +16,3 @@ function pow(x, n) {
       please enter an integer number greater than zero`);
   } else {
     alert( pow(x, n) );
-  
