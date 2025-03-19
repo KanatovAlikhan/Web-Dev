@@ -217,7 +217,7 @@ export const PRODUCTS: Product[] = [
         rating: 4.6,
         price: 89990,
         kaspiLink: 'https://kaspi.kz/shop/p/apple-magic-keyboard-dlja-ipad-pro-11-belyi-100667169/',
-        images: ['https://resources.cdn-kaspi.kz/img/m/p/hd3/h7f/63961934626846.jpg'],
+        images: ['https://resources.cdn-kaspi.kz/img/m/p/h0f/h3e/86350815952926.png?format=gallery-medium'],
         likes: 0,
         categoryId: 4
     },
@@ -228,7 +228,7 @@ export const PRODUCTS: Product[] = [
         rating: 4.8,
         price: 79990,
         kaspiLink: 'https://kaspi.kz/shop/p/apple-pencil-2nd-generation-belyi-9400824/',
-        images: ['https://resources.cdn-kaspi.kz/img/m/p/h92/h77/63944970567710.jpg'],
+        images: ['https://resources.cdn-kaspi.kz/img/m/p/h54/hb0/84651070095390.jpg?format=gallery-medium'],
         likes: 0,
         categoryId: 4
     }

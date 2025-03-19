@@ -73,7 +73,7 @@ export class ProductsComponent implements OnInit {
       images: [
         'assets/dyson.jpg'
       ],
-      kaspiLink: 'https://kaspi.kz/shop/p/samsung-galaxy-s24-ultra-5g-12-gb-512-gb-seryi-115899989'
+      kaspiLink: 'https://kaspi.kz/shop/p/dyson-hs05-airwrap-complete-long-gift-edition-stailer-1300-vt-112707564/?c=750000000'
     },
     {
       id: 6,
@@ -87,51 +87,7 @@ export class ProductsComponent implements OnInit {
         'assets/wm3.jpg'
       ],
       kaspiLink: 'https://kaspi.kz/shop/p/leadbros-xqg60-1017p-chernyi-112420396/?c=750000000'
-    },
-    {
-      id: 7,
-      name: 'Xiomi phone',
-      description: 'смартфон',
-      rating: 5,
-      price: 777,
-      images: [
-        'assets/.jpg'
-      ],
-      kaspiLink: 'https://kaspi.kz/shop/p/samsung-galaxy-s24-ultra-5g-12-gb-512-gb-seryi-115899989'
-    },
-    {
-      id: 8,
-      name: '123',
-      description: '199090',
-      rating: 5,
-      price: 777,
-      images: [
-        'assets.jpg'
-      ],
-      kaspiLink: 'https://kaspi.kz/shop/p/samsung-galaxy-s24-ultra-5g-12-gb-512-gb-seryi-115899989'
-    },
-    {
-      id: 9,
-      name: '123',
-      description: '123',
-      rating: 5,
-      price: 777,
-      images: [
-        'assets/.jpg'
-      ],
-      kaspiLink: 'https://kaspi.kz/shop/p/samsung-galaxy-s24-ultra-5g-12-gb-512-gb-seryi-115899989'
-    },
-    {
-      id: 10,
-      name: '123',
-      description: '123',
-      rating: 5,
-      price: 777,
-      images: [
-        'assets/.jpg'
-      ],
-      kaspiLink: 'https://kaspi.kz/shop/p/samsung-galaxy-s24-ultra-5g-12-gb-512-gb-seryi-115899989'
-    },
+    }
   ];
 
   currentImageIndex: { [key: number]: number } = {};
